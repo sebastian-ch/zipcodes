@@ -12,5 +12,8 @@
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
     "leaflet": "^1.7.1"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.10"
   }
 }
